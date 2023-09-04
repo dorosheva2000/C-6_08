@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\26_08_hw19\bin\Debug\net6.0\26_08_hw19.exe
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\26_08_hw19\bin\Debug\net6.0\26_08_hw19.deps.json
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\26_08_hw19\bin\Debug\net6.0\26_08_hw19.runtimeconfig.json
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\26_08_hw19\bin\Debug\net6.0\26_08_hw19.dll
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\26_08_hw19\bin\Debug\net6.0\26_08_hw19.pdb
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\26_08_hw19\obj\Debug\net6.0\26_08_hw19.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\26_08_hw19\obj\Debug\net6.0\26_08_hw19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\26_08_hw19\obj\Debug\net6.0\26_08_hw19.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\26_08_hw19\obj\Debug\net6.0\26_08_hw19.AssemblyInfo.cs
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\26_08_hw19\obj\Debug\net6.0\26_08_hw19.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\26_08_hw19\obj\Debug\net6.0\26_08_hw19.dll
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\26_08_hw19\obj\Debug\net6.0\refint\26_08_hw19.dll
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\26_08_hw19\obj\Debug\net6.0\26_08_hw19.pdb
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\26_08_hw19\obj\Debug\net6.0\26_08_hw19.genruntimeconfig.cache
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\26_08_hw19\obj\Debug\net6.0\ref\26_08_hw19.dll
