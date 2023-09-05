@@ -1,22 +1,32 @@
-﻿/*Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
-645 -> 5
-78 -> третьей цифры нет
-32679 -> 6*/
-string TheThirdDigit(int num)
+﻿using System;
+
+public class Answer
 {
-    if (num / 100 == 0) return "третьей цифры нет";
-    else if (num / 100 != 0 && num / 1000 == 0 ) return $"{num % 10}";
-    else
+    static bool IsPalindrome(int number){
+    if ((9999 < number || number < 1000000) && ((number % 10 == number / 10000) && ((number % 100)/10 == (number / 1000) % 10))) return true;
+    else if (number < 10000 || number > 99999)
     {
-        int bignum = num;
-        while (bignum > 999)
-        {
-            bignum = bignum / 10;
+      System.Console.WriteLine("Число не пятизначное");
+      return false;
+    }
+    else return false;
+}
+      
+    }
+  
+  // Не удаляйте и не меняйте метод Main! 
+      static public void Main(string[] args) {
+        int number;
+
+        if (args.Length >= 1) {
+            number = int.Parse(args[0]);
+        } else {
+           // Здесь вы можете поменять значения для отправки кода на Выполнение
+            number = 64546;
         }
-        int res = bignum % 10;
-        return $"{res}";
+
+        // Не удаляйте строки ниже
+        bool result = IsPalindrome(number);
+        System.Console.WriteLine($"{result}");
     }
 }
-
-int number = int.Parse(Console.ReadLine()!);
-Console.Write(TheThirdDigit(number));
