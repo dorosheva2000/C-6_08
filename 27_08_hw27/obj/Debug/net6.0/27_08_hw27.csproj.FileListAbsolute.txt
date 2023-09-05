@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\27_08_hw27\obj\Debug\net6.0\27_08_hw27.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\27_08_hw27\obj\Debug\net6.0\27_08_hw27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\27_08_hw27\obj\Debug\net6.0\27_08_hw27.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\27_08_hw27\obj\Debug\net6.0\27_08_hw27.AssemblyInfo.cs
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\27_08_hw27\obj\Debug\net6.0\27_08_hw27.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\27_08_hw27\bin\Debug\net6.0\27_08_hw27.exe
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\27_08_hw27\bin\Debug\net6.0\27_08_hw27.deps.json
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\27_08_hw27\bin\Debug\net6.0\27_08_hw27.runtimeconfig.json
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\27_08_hw27\bin\Debug\net6.0\27_08_hw27.dll
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\27_08_hw27\bin\Debug\net6.0\27_08_hw27.pdb
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\27_08_hw27\obj\Debug\net6.0\27_08_hw27.dll
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\27_08_hw27\obj\Debug\net6.0\refint\27_08_hw27.dll
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\27_08_hw27\obj\Debug\net6.0\27_08_hw27.pdb
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\27_08_hw27\obj\Debug\net6.0\27_08_hw27.genruntimeconfig.cache
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\27_08_hw27\obj\Debug\net6.0\ref\27_08_hw27.dll
